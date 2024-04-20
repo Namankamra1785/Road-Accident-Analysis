@@ -18,3 +18,5 @@ My approach emphasized:
 This project has been an excellent opportunity to sharpen my Excel skills and deepen my understanding of data analysis concepts.
 
 ![11111](https://github.com/Namankamra1785/Road-Accident-Analysis/assets/74761237/b633e48a-3e2a-4a17-9d5d-fe916bed7182)
+
+Link to the project https://cumailin-my.sharepoint.com/:x:/g/personal/19bcs1785_cuchd_in/EcF-OjegdAJJtig_FuaoWu0BQVOSF_QsRsZVWPP3IU7hQw
